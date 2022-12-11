@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\bin\Debug\net6.0\TaskSHarp.exe
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\bin\Debug\net6.0\TaskSHarp.deps.json
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\bin\Debug\net6.0\TaskSHarp.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\bin\Debug\net6.0\TaskSHarp.dll
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\bin\Debug\net6.0\TaskSHarp.pdb
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\TaskSHarp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\TaskSHarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\TaskSHarp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\TaskSHarp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\TaskSHarp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\TaskSHarp.dll
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\refint\TaskSHarp.dll
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\TaskSHarp.pdb
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\TaskSHarp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\taskC#\TaskSHarp\TaskSHarp\obj\Debug\net6.0\ref\TaskSHarp.dll
